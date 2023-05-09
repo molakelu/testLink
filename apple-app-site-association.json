@@ -1,0 +1,27 @@
+{
+    "webcredentials":{
+        "apps":[
+            "D95XHVNG2Z.com.ford.cnevapp",
+            "5D762854JD.com.ford.cnevapp.prod"
+        ]
+    },
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "appID":"D95XHVNG2Z.com.ford.cnevapp",
+                "paths":[
+                    "*"
+                ]
+            },
+            {
+                "appID":"5D762854JD.com.ford.cnevapp.prod",
+                "paths":[
+                    "*"
+                ]
+            }
+        ]
+    }
+}
